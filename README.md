@@ -2,6 +2,7 @@
 <h3 align="center"> Happy Coding 💻 developers!</h3>
 <p align="center">
     <a href="https://www.youtube.com/@dreamcodestudio"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+     <a href="https://t.me/dreamcestudio"><img alt="Telegram" title="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 <p align="center">
 Want to support me? ☕︎
@@ -9,15 +10,6 @@ Want to support me? ☕︎
 https://punkto.me/eCUIF99
 <br>
 https://pay.cloudtips.ru/p/fc2a7469
-</p>
-<p align="center">
-✉️ Contact
-</p>
-<p align="center">
-    <a href="https://t.me/dreamcestudio">Telegram</a>
-</p>
-<p align="center">
-    <a href="mailto:dreamcodestudio@yandex.com">Email</a>
 </p>
 <p align="center" width="100%">
 <img height=200 src="https://github-readme-stats.vercel.app/api?username=dreamcodestudio&show_icons=true&rank_icon=github&theme=nord&hide_title=true" />
