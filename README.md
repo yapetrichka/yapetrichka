@@ -7,6 +7,8 @@
 <p align="center">
 Want to support me? ☕︎
 <br>
+https://www.paypal.com/paypalme/dreamcodestudio
+<br>
 https://punkto.me/eCUIF99
 <br>
 https://pay.cloudtips.ru/p/fc2a7469
