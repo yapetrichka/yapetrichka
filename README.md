@@ -1,4 +1,3 @@
-<h2 align="center">👋 Hello! I'm Yaroslav 🦝</h2>
 <h3 align="center">Sharing Coding, AI & Unity knowledge 🔥</h3>
 <h4 align="center">Teaching through building 📚 | Solo founder 💻</h4>
 
