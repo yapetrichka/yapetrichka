@@ -13,10 +13,9 @@
 
 <p align="center">
 Want to support me? ☕︎<br>
-🐱 USDT TRC20: TVXNyTAt5BjPPeQu5CSyLphZTf3kdf3Cnj<br>
-🐻‍❄️ USDT TON:  UQCTPo0Wq5Q_XJ5R4BSSPqDkQFP2e3kdB40_IT5BA5qAPsw6<br>
-🐰 BTC: bc1qgctzvkafda7740pumptcc3ag77m5nxcnv4cjfm<br>
-🦊 BTCB: 0x05e894d3F612a282D7737196e5bf27c88a4Df1b5
+<a href="https://nowpayments.io/donation?api_key=90F6F7N-08V4B23-H80441J-NKSH2X9" target="_blank" rel="noreferrer noopener">
+   <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" alt="Crypto donation button by NOWPayments">
+</a>
 </p>
 
 <p align="center" width="100%">
