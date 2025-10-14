@@ -17,7 +17,3 @@ Want to support me? ☕︎<br>
    <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" alt="Crypto donation button by NOWPayments">
 </a>
 </p>
-
-<p align="center" width="100%">
-<img height=200 src="https://github-readme-stats.vercel.app/api?username=dreamcodestudio&show_icons=true&rank_icon=github&theme=nord&hide_title=true" />
-</p>
