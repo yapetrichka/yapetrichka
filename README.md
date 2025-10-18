@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-<em>Building apps, sharing knowledge, documenting the journey</em>
-</p>
-
-<p align="center">
 Want to support me? ☕︎<br>
 <a href="https://nowpayments.io/donation?api_key=90F6F7N-08V4B23-H80441J-NKSH2X9" target="_blank" rel="noreferrer noopener">
    <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" alt="Crypto donation button by NOWPayments">
