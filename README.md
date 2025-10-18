@@ -1,5 +1,4 @@
-<h3 align="center">Sharing Coding, AI & Unity knowledge 🔥</h3>
-<h4 align="center">Teaching through building 📚 | Solo founder 💻</h4>
+<h3 align="center">Teaching through building 📚 | Solo founder 💻</h3>
 
 <p align="center">
     <a href="https://t.me/yaroslav_petrichka"><img alt="Telegram" title="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
